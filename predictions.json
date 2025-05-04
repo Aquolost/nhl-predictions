@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "home_team": "Team A",
+      "away_team": "Team B",
+      "date": "2025-05-05",
+      "predictions": {
+        "regular_time_win": "Team A",
+        "overtime_win": "Team B",
+        "over_under": "Over 5.5",
+        "home_team_goals": "3",
+        "away_team_goals": "2"
+      }
+    },
+    {
+      "home_team": "Team C",
+      "away_team": "Team D",
+      "date": "2025-05-05",
+      "predictions": {
+        "regular_time_win": "Team C",
+        "overtime_win": "Team D",
+        "over_under": "Under 5.5",
+        "home_team_goals": "2",
+        "away_team_goals": "1"
+      }
+    }
+  ]
+}
