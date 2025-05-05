@@ -1,28 +1,30 @@
-{
-  "games": [
-    {
-      "home_team": "Team A",
-      "away_team": "Team B",
-      "date": "2025-05-05",
-      "predictions": {
-        "regular_time_win": "Team A",
-        "overtime_win": "Team B",
-        "over_under": "Over 5.5",
-        "home_team_goals": "3",
-        "away_team_goals": "2"
-      }
-    },
-    {
-      "home_team": "Team C",
-      "away_team": "Team D",
-      "date": "2025-05-05",
-      "predictions": {
-        "regular_time_win": "Team C",
-        "overtime_win": "Team D",
-        "over_under": "Under 5.5",
-        "home_team_goals": "2",
-        "away_team_goals": "1"
-      }
+[
+  {
+    "date": "2025-05-04",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Montreal Canadiens",
+    "home_score_avg": 3.2,
+    "away_score_avg": 2.8,
+    "prediction": {
+      "regulation_win": "home",
+      "overtime_win": "away",
+      "over_under_total": "over",
+      "over_under_home": "over",
+      "over_under_away": "under"
     }
-  ]
-}
+  },
+  {
+    "date": "2025-05-04",
+    "home_team": "Boston Bruins",
+    "away_team": "New York Rangers",
+    "home_score_avg": 2.5,
+    "away_score_avg": 3.1,
+    "prediction": {
+      "regulation_win": "away",
+      "overtime_win": "home",
+      "over_under_total": "under",
+      "over_under_home": "under",
+      "over_under_away": "over"
+    }
+  }
+]
